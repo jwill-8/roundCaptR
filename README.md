@@ -1,0 +1,9 @@
+This project is mean to serve a few purposes: 
+
+1.) Show case my ability as a R programmer/Shiny developer. Currently in my role as a Data Scientest at [Forrester Research](https://www.forrester.com/bold/) I solve business problems. The majority of the solutions I have provided have been by developing R packages and/or developing Shiny applications to automate aspects of client deliverables, or make data/analyses more acessable to less technicall coworkers. 
+
+2.) Showcase my ability as a problem solver. I am an avid golfer and a true enthusiast of the sport. In my opinion EVERYONE should play. I've found that the [GHIN App](https://usgasupport.zendesk.com/hc/en-us/articles/360044381991-Hole-by-Hole-Score-Posting-with-Stats) hole-by-hole stats are incomplete. They do not offer users to log how far their tee ball went, more granular inputs regarding approach, where on the green you ended up if you hit a green in regulation, etc. I am aware that these issues have been solved via awesome tech by companies like [Arccos](https://www.arccosgolf.com/?srsltid=AfmBOorckISPxgf_Jcw9Rfh8Wv-4skbsFfiVrVDtcXIaCNWpfECCaHRg) but I don't wan't to pay for their services because I am a dev and I can build something similar (minus the gps tracking hardware). My idea is to create an application to log every shot of every round I play, which will capture ALOT of what the aforementioned tech does as well.
+
+3.) Keep my learning goals on track. I am in the process of improving my Web Development skills. This project offers me a playground to do that. Eventually I'd like to recreate this app via React and hopefully React Native so I can log stats in real time during my rounds. 
+
+4.) Become a better player. If there are areas I can improve to go lower that I realize via stat captured, that's really just icing on the cake. 
